@@ -1,0 +1,2 @@
+Estas son mis primeras notas en GitHub.
+Hoy aprendí a crear un repositorio y a editar archivos.
